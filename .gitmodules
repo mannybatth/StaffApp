@@ -1,0 +1,3 @@
+[submodule "YikesStaffEngine"]
+	path = YikesStaffEngine
+	url = https://bitbucket.org/yikesdev/yikesstaffengine
